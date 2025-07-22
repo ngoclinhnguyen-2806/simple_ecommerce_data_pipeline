@@ -68,7 +68,7 @@ transactions (transaction_id, customer_id, product_id, quantity, total_amount, t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ecommerce-data-pipeline.git
+   git clone https://github.com/ngoclinhnguyen-2806/ecommerce-data-pipeline.git
    cd ecommerce-data-pipeline
    ```
 
