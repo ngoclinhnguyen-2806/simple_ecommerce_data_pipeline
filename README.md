@@ -179,18 +179,15 @@ ORDER BY month;
 ### Planned Features
 - [ ] **Apache Airflow**: Workflow orchestration and scheduling
 - [ ] **Machine Learning**: Churn prediction, demand forecasting, recommendation engine
-- [ ] **Real-time Processing**: Kafka streaming for live transaction processing
 - [ ] **Docker Containerization**: Easy deployment and scaling
 - [ ] **Cloud Deployment**: AWS/GCP integration with managed services
-- [ ] **Dashboard Creation**: Interactive visualizations with Plotly/Streamlit
+- [ ] **Dashboard Creation**: Interactive visualizations with Streamlit
 - [ ] **Data Lineage**: Track data flow and transformations
 - [ ] **Monitoring & Alerting**: Pipeline health and performance monitoring
 
 ### Advanced Analytics
 - Customer lifetime value prediction
 - Demand forecasting with seasonal adjustment
-- Price optimization models
-- Fraud detection algorithms
 - Inventory optimization
 
 ## 📁 Project Structure
